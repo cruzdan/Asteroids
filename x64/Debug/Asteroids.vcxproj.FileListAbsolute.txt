@@ -1,2 +1,0 @@
-C:\Users\Cruz\source\repos\Asteroids\x64\Debug\Asteroids.exe
-C:\Users\Cruz\source\repos\Asteroids\x64\Debug\Asteroids.pdb
